@@ -15,6 +15,6 @@ Before that, an OAuth 2.0 and Keycloak rollout, a pipeline taken from 250 to 100
 
 I came to engineering from a design degree, so I care how something feels as much as whether it holds up.
 
-Outside work I founded **Tech Besties**, a Manchester community for women in tech, and mentor on the **Muslim Women Connect** programme. I also co-run **Matcha Girlies**, which is 2,000 people and considerably more matcha than that.
+Outside work I founded **Tech Besties**, a Manchester community for women in tech, and mentor on the **Muslim Women Connect** programme. I also co-run **Matcha Girlies**, which is 1,200 people and considerably more matcha than that.
 
 📫 [LinkedIn](https://www.linkedin.com/in/aneesah-almas-khan)
