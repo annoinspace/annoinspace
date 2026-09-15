@@ -2,7 +2,7 @@
 
 Full stack engineer in Manchester.
 
-I've been all in on building behavioural AI for the last year and a half, and startup life is fairly all-consuming, so my personal GitHub is a little quiet. Most of what I've built lives in private repos over on [aneesah-zally](https://github.com/aneesah-zally).
+I've been all in on building behavioural AI for the last year and a half, and startup life is fairly all-consuming, so my personal GitHub is a little quiet. Most of what I've built lives in private repos over on [aneesah-zally](https://github.com/aneesah-zally), and much earlier in [aneesahpharmappy](https://github.com/aneesah-zally).
 
 Most of my last year has been identity and authentication, real-time systems at scale, and building the agentic tooling my team now runs on. That last one is a multi-agent system built with Claude Code and MCP: it picks up a ticket, works it end to end and hands a human a reviewed pull request. Most of the hard work turned out to be governance rather than agents.
 
