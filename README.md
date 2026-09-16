@@ -1,6 +1,6 @@
 ### Hi, I'm Aneesah 👋
 
-Full stack engineer in Manchester.
+Full stack, product-focused engineer in Manchester.
 
 I've been all in on building behavioural AI for the last year and a half, and startup life is fairly all-consuming, so my personal GitHub is a little quiet. Most of what I've built lives in private repos over on [aneesah-zally](https://github.com/aneesah-zally), and much earlier in [aneesahpharmappy](https://github.com/aneesahpharmappy).
 
