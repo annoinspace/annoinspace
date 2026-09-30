@@ -4,6 +4,8 @@ Full stack, product-focused engineer in Manchester.
 
 I've been all in on building behavioural AI for the last year and a half, and startup life is fairly all-consuming, so my personal GitHub is a little quiet. Most of what I've built lives in private repos over on [aneesah-zally](https://github.com/aneesah-zally), and much earlier in [aneesahpharmappy](https://github.com/aneesahpharmappy).
 
+I've been building [Silver April](https://silverapril.com/), a platform to explore the transactions and history of iconic real estate in NYC.
+
 Most of my last year has been identity and authentication, real-time systems at scale, and building the agentic tooling my team now runs on. That last one is a multi-agent system built with Claude Code and MCP: it picks up a ticket, works it end to end and hands a human a reviewed pull request.
 
 Before that, an OAuth 2.0 and Keycloak rollout, a pipeline taken from 250 to 100,000 concurrent users, and the observability that made it possible to trace a single request through every service it touched. Earlier still, payments and onboarding flows for a regulated healthcare product.
