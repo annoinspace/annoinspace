@@ -12,7 +12,7 @@ Before that, an OAuth 2.0 and Keycloak rollout, a pipeline taken from 250 to 100
 
 **Languages** TypeScript · Go · Kotlin · Swift · Python  
 **Backend & infra** Kafka · Flink · PostgreSQL · Kubernetes · AWS · ArgoCD · SST · Pulumi  
-**Frontend** React · Next.js · React Native  
+**Frontend** React · Next.js · React Native · Astro
 **Observability** Grafana · Prometheus · Tempo · OpenTelemetry
 
 I came to engineering from a design degree, so I care how something feels as much as whether it holds up.
